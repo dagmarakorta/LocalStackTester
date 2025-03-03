@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, how would you like to name your s3 bucket?\n");
+var proposedName = Console.ReadLine();
+
+Console.WriteLine($"Creating {proposedName} bucket...";
+
+
