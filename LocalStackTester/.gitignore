@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.lib
+*.log
+*.pdb
